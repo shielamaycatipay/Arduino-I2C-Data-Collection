@@ -26,7 +26,7 @@ The system performs:
 4. Data is collected and can be expanded for logging applications.
 
 ## Author
-Shiela May Catipa 
+Shiela May Catipay
 BSCA- BCA189 
 Prof. Sir Jom
 03-01-26
